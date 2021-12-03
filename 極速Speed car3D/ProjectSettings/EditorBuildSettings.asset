@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 5c562c8593d7043479072042ff73ada2
+  - enabled: 1
+    path: Assets/Scenes/ChoseCar.unity
+    guid: b1f3798448356e143a5a8e825966149d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: e641a748ecff42a46a8d516e3c2580b6
+  - enabled: 1
+    path: Assets/Scenes/Level1Accounts.unity
+    guid: 1a8303a33b9cb7a478fbb68bd23bdd3d
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: d5f07bc9f04f11d44ae71cdc71bad42b
+  - enabled: 1
+    path: Assets/Scenes/Level2Accounts.unity
+    guid: 61e216ac44101244c84ce57ec4a264c5
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 1b2498cd9c8264f479719f55ddba038a
+  - enabled: 1
+    path: Assets/Scenes/Level3Accounts.unity
+    guid: e756b0842da15e9449e6d9c642b246d7
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: bfde5b5d2c8d6544eb166a1d44f7f31a
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: bfc82a52e48b04f4aba666851bf71543
+  m_configObjects: {}

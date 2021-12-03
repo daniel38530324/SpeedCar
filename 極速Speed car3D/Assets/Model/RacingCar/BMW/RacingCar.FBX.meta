@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: 43a435ed81149e84a8dc505a885cb236
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antena 1
+    100002: antena 2
+    100004: biegi 1
+    100006: biegi 2
+    100008: bok1
+    100010: bok2
+    100012: Box01
+    100014: Box01 1
+    100016: Box01 2
+    100018: Box02
+    100020: Box02 1
+    100022: Box02 2
+    100024: Box03
+    100026: Box04
+    100028: Box05
+    100030: Box06
+    100032: Box07
+    100034: Box08
+    100036: Box09
+    100038: Box10
+    100040: Box11
+    100042: Box12
+    100044: Box13
+    100046: Box13 1
+    100048: Box14
+    100050: Box14 1
+    100052: Box15
+    100054: Box16
+    100056: Box17
+    100058: Box18
+    100060: Box19
+    100062: chlodnica 03
+    100064: chlodnica 1
+    100066: chlodnica 2
+    100068: chlodnica1
+    100070: Cylinder01
+    100072: Cylinder06
+    100074: Cylinder07
+    100076: Cylinder08
+    100078: Cylinder08 1
+    100080: Cylinder09
+    100082: Cylinder19
+    100084: Cylinder86
+    100086: Cylinder87
+    100088: Cylinder88
+    100090: Cylinder89
+    100092: Cylinder90
+    100094: czarny wlot
+    100096: dach
+    100098: drzwi 03
+    100100: drzwi 05
+    100102: drzwi 06
+    100104: drzwi 07
+    100106: drzwi 08
+    100108: drzwi 09
+    100110: drzwi 10
+    100112: drzwi 2
+    100114: fotel
+    100116: fotel02
+    100118: kierownica1
+    100120: klamka
+    100122: klamka 02
+    100124: klamka 03
+    100126: klamka01
+    100128: klapa tyl
+    100130: klatka02
+    100132: klatka1
+    100134: kolumna kierownicy
+    100136: Line01
+    100138: Line01 1
+    100140: Line01 2
+    100142: Line02
+    100144: Line02 1
+    100146: Line02 2
+    100148: Line03
+    100150: Line03 1
+    100152: Line03 2
+    100154: Line04
+    100156: Line05
+    100158: Line06
+    100160: Line06 1
+    100162: Line07
+    100164: Line07 1
+    100166: Line09
+    100168: Line10
+    100170: Line100
+    100172: Line101
+    100174: Line102
+    100176: Line103
+    100178: Line104
+    100180: Line105
+    100182: Line106
+    100184: Line107
+    100186: Line108
+    100188: Line109
+    100190: Line11
+    100192: Line110
+    100194: Line111
+    100196: Line112
+    100198: Line12
+    100200: Line13
+    100202: Line14
+    100204: Line45
+    100206: Line46
+    100208: Line47
+    100210: Line48
+    100212: Line49
+    100214: Line50
+    100216: Line51
+    100218: Line52
+    100220: Line53
+    100222: Line54
+    100224: Line55
+    100226: Line56
+    100228: Line57
+    100230: Line73
+    100232: Line75
+    100234: Line97
+    100236: Line98
+    100238: Line99
+    100240: listwa tyl
+    100242: lusterko
+    100244: lusterko02
+    100246: lusterko03
+    100248: lusterko1
+    100250: maska01
+    100252: maska02
+    100254: migacz p03
+    100256: migacz p04
+    100258: migacz p1
+    100260: migacz p2
+    100262: nadkola
+    100264: nadkola01
+    100266: NGon01
+    100268: NGon02
+    100270: NGon03
+    100272: NGon16
+    100274: NGon17
+    100276: NGon18
+    100278: OilTank01
+    100280: OilTank02
+    100282: podloga02
+    100284: progi
+    100286: przelacznik02
+    100288: przelacznik03
+    100290: przelacznik04
+    100292: przelacznik05
+    100294: przelacznik06
+    100296: przelacznik07
+    100298: przelacznik08
+    100300: przelacznik09
+    100302: przelacznik1
+    100304: przelacznik10
+    100306: przelacznik11
+    100308: przelacznik12
+    100310: przelacznik13
+    100312: przelacznik14
+    100314: przelacznik15
+    100316: przelacznik16
+    100318: przelacznik18
+    100320: przelacznik19
+    100322: przelacznik24
+    100324: przelacznik25
+    100326: przelacznik26
+    100328: przelacznik27
+    100330: przelacznik28
+    100332: przelacznik29
+    100334: przelacznik30
+    100336: przelacznik31
+    100338: przelacznik32
+    100340: przelacznik33
+    100342: //RootNode
+    100344: reflektor p03
+    100346: reflektor p04
+    100348: reflektor p08
+    100350: reflektor p09
+    100352: reflektor p10
+    100354: reflektor p2
+    100356: reflektory03
+    100358: reflektory2
+    100360: reklama szyby p
+    100362: rowek 4
+    100364: rowek 5
+    100366: rowek 6
+    100368: rowki 2
+    100370: rowki 8
+    100372: rowki1
+    100374: rura wydech
+    100376: Sphere01
+    100378: Sphere01 1
+    100380: Sphere02
+    100382: Sphere02 1
+    100384: Sphere03
+    100386: spinka06
+    100388: spinka07
+    100390: spinka08
+    100392: spinka1
+    100394: spoiler t
+    100396: spoiler t01
+    100398: swiatla t
+    100400: swiatlo tylne 1
+    100402: swiatlo zdezak t1
+    100404: swiatlo zdezak t2
+    100406: szyba b02
+    100408: szyba b04
+    100410: szyba b05
+    100412: szyba b06
+    100414: szyba b07
+    100416: szyba b08
+    100418: szyba b09
+    100420: szyba b1
+    100422: szyba b10
+    100424: szyba b4
+    100426: szyba p
+    100428: szyba p czarny
+    100430: szyba t
+    100432: szyba t01
+    100434: szyby b
+    100436: szyby b napisy
+    100438: szyby b napisy 01
+    100440: szyby czarny b01
+    100442: szyby czarny b02
+    100444: szyby drzwi czarny b02
+    100446: szyby drzwi czarny b03
+    100448: tablica rej
+    100450: Torus01
+    100452: Torus02
+    100454: Tube01
+    100456: Tube01 1
+    100458: Tube02
+    100460: Tube03
+    100462: Tube03 1
+    100464: Tube04
+    100466: wlot na dachu
+    100468: wlot p1
+    100470: wlot p2
+    100472: wnetrze1
+    100474: wycieraczka
+    100476: wycieraczka01
+    100478: wyswietlacz
+    100480: zderzak p
+    100482: zderzak t
+    400000: antena 1
+    400002: antena 2
+    400004: biegi 1
+    400006: biegi 2
+    400008: bok1
+    400010: bok2
+    400012: Box01
+    400014: Box01 1
+    400016: Box01 2
+    400018: Box02
+    400020: Box02 1
+    400022: Box02 2
+    400024: Box03
+    400026: Box04
+    400028: Box05
+    400030: Box06
+    400032: Box07
+    400034: Box08
+    400036: Box09
+    400038: Box10
+    400040: Box11
+    400042: Box12
+    400044: Box13
+    400046: Box13 1
+    400048: Box14
+    400050: Box14 1
+    400052: Box15
+    400054: Box16
+    400056: Box17
+    400058: Box18
+    400060: Box19
+    400062: chlodnica 03
+    400064: chlodnica 1
+    400066: chlodnica 2
+    400068: chlodnica1
+    400070: Cylinder01
+    400072: Cylinder06
+    400074: Cylinder07
+    400076: Cylinder08
+    400078: Cylinder08 1
+    400080: Cylinder09
+    400082: Cylinder19
+    400084: Cylinder86
+    400086: Cylinder87
+    400088: Cylinder88
+    400090: Cylinder89
+    400092: Cylinder90
+    400094: czarny wlot
+    400096: dach
+    400098: drzwi 03
+    400100: drzwi 05
+    400102: drzwi 06
+    400104: drzwi 07
+    400106: drzwi 08
+    400108: drzwi 09
+    400110: drzwi 10
+    400112: drzwi 2
+    400114: fotel
+    400116: fotel02
+    400118: kierownica1
+    400120: klamka
+    400122: klamka 02
+    400124: klamka 03
+    400126: klamka01
+    400128: klapa tyl
+    400130: klatka02
+    400132: klatka1
+    400134: kolumna kierownicy
+    400136: Line01
+    400138: Line01 1
+    400140: Line01 2
+    400142: Line02
+    400144: Line02 1
+    400146: Line02 2
+    400148: Line03
+    400150: Line03 1
+    400152: Line03 2
+    400154: Line04
+    400156: Line05
+    400158: Line06
+    400160: Line06 1
+    400162: Line07
+    400164: Line07 1
+    400166: Line09
+    400168: Line10
+    400170: Line100
+    400172: Line101
+    400174: Line102
+    400176: Line103
+    400178: Line104
+    400180: Line105
+    400182: Line106
+    400184: Line107
+    400186: Line108
+    400188: Line109
+    400190: Line11
+    400192: Line110
+    400194: Line111
+    400196: Line112
+    400198: Line12
+    400200: Line13
+    400202: Line14
+    400204: Line45
+    400206: Line46
+    400208: Line47
+    400210: Line48
+    400212: Line49
+    400214: Line50
+    400216: Line51
+    400218: Line52
+    400220: Line53
+    400222: Line54
+    400224: Line55
+    400226: Line56
+    400228: Line57
+    400230: Line73
+    400232: Line75
+    400234: Line97
+    400236: Line98
+    400238: Line99
+    400240: listwa tyl
+    400242: lusterko
+    400244: lusterko02
+    400246: lusterko03
+    400248: lusterko1
+    400250: maska01
+    400252: maska02
+    400254: migacz p03
+    400256: migacz p04
+    400258: migacz p1
+    400260: migacz p2
+    400262: nadkola
+    400264: nadkola01
+    400266: NGon01
+    400268: NGon02
+    400270: NGon03
+    400272: NGon16
+    400274: NGon17
+    400276: NGon18
+    400278: OilTank01
+    400280: OilTank02
+    400282: podloga02
+    400284: progi
+    400286: przelacznik02
+    400288: przelacznik03
+    400290: przelacznik04
+    400292: przelacznik05
+    400294: przelacznik06
+    400296: przelacznik07
+    400298: przelacznik08
+    400300: przelacznik09
+    400302: przelacznik1
+    400304: przelacznik10
+    400306: przelacznik11
+    400308: przelacznik12
+    400310: przelacznik13
+    400312: przelacznik14
+    400314: przelacznik15
+    400316: przelacznik16
+    400318: przelacznik18
+    400320: przelacznik19
+    400322: przelacznik24
+    400324: przelacznik25
+    400326: przelacznik26
+    400328: przelacznik27
+    400330: przelacznik28
+    400332: przelacznik29
+    400334: przelacznik30
+    400336: przelacznik31
+    400338: przelacznik32
+    400340: przelacznik33
+    400342: //RootNode
+    400344: reflektor p03
+    400346: reflektor p04
+    400348: reflektor p08
+    400350: reflektor p09
+    400352: reflektor p10
+    400354: reflektor p2
+    400356: reflektory03
+    400358: reflektory2
+    400360: reklama szyby p
+    400362: rowek 4
+    400364: rowek 5
+    400366: rowek 6
+    400368: rowki 2
+    400370: rowki 8
+    400372: rowki1
+    400374: rura wydech
+    400376: Sphere01
+    400378: Sphere01 1
+    400380: Sphere02
+    400382: Sphere02 1
+    400384: Sphere03
+    400386: spinka06
+    400388: spinka07
+    400390: spinka08
+    400392: spinka1
+    400394: spoiler t
+    400396: spoiler t01
+    400398: swiatla t
+    400400: swiatlo tylne 1
+    400402: swiatlo zdezak t1
+    400404: swiatlo zdezak t2
+    400406: szyba b02
+    400408: szyba b04
+    400410: szyba b05
+    400412: szyba b06
+    400414: szyba b07
+    400416: szyba b08
+    400418: szyba b09
+    400420: szyba b1
+    400422: szyba b10
+    400424: szyba b4
+    400426: szyba p
+    400428: szyba p czarny
+    400430: szyba t
+    400432: szyba t01
+    400434: szyby b
+    400436: szyby b napisy
+    400438: szyby b napisy 01
+    400440: szyby czarny b01
+    400442: szyby czarny b02
+    400444: szyby drzwi czarny b02
+    400446: szyby drzwi czarny b03
+    400448: tablica rej
+    400450: Torus01
+    400452: Torus02
+    400454: Tube01
+    400456: Tube01 1
+    400458: Tube02
+    400460: Tube03
+    400462: Tube03 1
+    400464: Tube04
+    400466: wlot na dachu
+    400468: wlot p1
+    400470: wlot p2
+    400472: wnetrze1
+    400474: wycieraczka
+    400476: wycieraczka01
+    400478: wyswietlacz
+    400480: zderzak p
+    400482: zderzak t
+    2300000: antena 1
+    2300002: antena 2
+    2300004: biegi 1
+    2300006: biegi 2
+    2300008: bok1
+    2300010: bok2
+    2300012: Box01
+    2300014: Box01 1
+    2300016: Box01 2
+    2300018: Box02
+    2300020: Box02 1
+    2300022: Box02 2
+    2300024: Box03
+    2300026: Box04
+    2300028: Box05
+    2300030: Box06
+    2300032: Box07
+    2300034: Box08
+    2300036: Box09
+    2300038: Box10
+    2300040: Box11
+    2300042: Box12
+    2300044: Box13
+    2300046: Box13 1
+    2300048: Box14
+    2300050: Box14 1
+    2300052: Box15
+    2300054: Box16
+    2300056: Box17
+    2300058: Box18
+    2300060: Box19
+    2300062: chlodnica 03
+    2300064: chlodnica 1
+    2300066: chlodnica 2
+    2300068: chlodnica1
+    2300070: Cylinder01
+    2300072: Cylinder06
+    2300074: Cylinder07
+    2300076: Cylinder08
+    2300078: Cylinder08 1
+    2300080: Cylinder09
+    2300082: Cylinder19
+    2300084: Cylinder86
+    2300086: Cylinder87
+    2300088: Cylinder88
+    2300090: Cylinder89
+    2300092: Cylinder90
+    2300094: czarny wlot
+    2300096: dach
+    2300098: drzwi 03
+    2300100: drzwi 05
+    2300102: drzwi 06
+    2300104: drzwi 07
+    2300106: drzwi 08
+    2300108: drzwi 09
+    2300110: drzwi 10
+    2300112: drzwi 2
+    2300114: fotel
+    2300116: fotel02
+    2300118: kierownica1
+    2300120: klamka
+    2300122: klamka 02
+    2300124: klamka 03
+    2300126: klamka01
+    2300128: klapa tyl
+    2300130: klatka02
+    2300132: klatka1
+    2300134: kolumna kierownicy
+    2300136: Line01
+    2300138: Line01 1
+    2300140: Line01 2
+    2300142: Line02
+    2300144: Line02 1
+    2300146: Line02 2
+    2300148: Line03
+    2300150: Line03 1
+    2300152: Line03 2
+    2300154: Line04
+    2300156: Line05
+    2300158: Line06
+    2300160: Line06 1
+    2300162: Line07
+    2300164: Line07 1
+    2300166: Line09
+    2300168: Line10
+    2300170: Line100
+    2300172: Line101
+    2300174: Line102
+    2300176: Line103
+    2300178: Line104
+    2300180: Line105
+    2300182: Line106
+    2300184: Line107
+    2300186: Line108
+    2300188: Line109
+    2300190: Line11
+    2300192: Line110
+    2300194: Line111
+    2300196: Line112
+    2300198: Line12
+    2300200: Line13
+    2300202: Line14
+    2300204: Line45
+    2300206: Line46
+    2300208: Line47
+    2300210: Line48
+    2300212: Line49
+    2300214: Line50
+    2300216: Line51
+    2300218: Line52
+    2300220: Line53
+    2300222: Line54
+    2300224: Line55
+    2300226: Line56
+    2300228: Line57
+    2300230: Line73
+    2300232: Line75
+    2300234: Line97
+    2300236: Line98
+    2300238: Line99
+    2300240: listwa tyl
+    2300242: lusterko
+    2300244: lusterko02
+    2300246: lusterko03
+    2300248: lusterko1
+    2300250: maska01
+    2300252: maska02
+    2300254: migacz p03
+    2300256: migacz p04
+    2300258: migacz p1
+    2300260: migacz p2
+    2300262: nadkola
+    2300264: nadkola01
+    2300266: NGon01
+    2300268: NGon02
+    2300270: NGon03
+    2300272: NGon16
+    2300274: NGon17
+    2300276: NGon18
+    2300278: OilTank01
+    2300280: OilTank02
+    2300282: podloga02
+    2300284: progi
+    2300286: przelacznik02
+    2300288: przelacznik03
+    2300290: przelacznik04
+    2300292: przelacznik05
+    2300294: przelacznik06
+    2300296: przelacznik07
+    2300298: przelacznik08
+    2300300: przelacznik09
+    2300302: przelacznik1
+    2300304: przelacznik10
+    2300306: przelacznik11
+    2300308: przelacznik12
+    2300310: przelacznik13
+    2300312: przelacznik14
+    2300314: przelacznik15
+    2300316: przelacznik16
+    2300318: przelacznik18
+    2300320: przelacznik19
+    2300322: przelacznik24
+    2300324: przelacznik25
+    2300326: przelacznik26
+    2300328: przelacznik27
+    2300330: przelacznik28
+    2300332: przelacznik29
+    2300334: przelacznik30
+    2300336: przelacznik31
+    2300338: przelacznik32
+    2300340: przelacznik33
+    2300342: reflektor p03
+    2300344: reflektor p04
+    2300346: reflektor p08
+    2300348: reflektor p09
+    2300350: reflektor p10
+    2300352: reflektor p2
+    2300354: reflektory03
+    2300356: reflektory2
+    2300358: reklama szyby p
+    2300360: rowek 4
+    2300362: rowek 5
+    2300364: rowek 6
+    2300366: rowki 2
+    2300368: rowki 8
+    2300370: rowki1
+    2300372: rura wydech
+    2300374: Sphere01
+    2300376: Sphere01 1
+    2300378: Sphere02
+    2300380: Sphere02 1
+    2300382: Sphere03
+    2300384: spinka06
+    2300386: spinka07
+    2300388: spinka08
+    2300390: spinka1
+    2300392: spoiler t
+    2300394: spoiler t01
+    2300396: swiatla t
+    2300398: swiatlo tylne 1
+    2300400: swiatlo zdezak t1
+    2300402: swiatlo zdezak t2
+    2300404: szyba b02
+    2300406: szyba b04
+    2300408: szyba b05
+    2300410: szyba b06
+    2300412: szyba b07
+    2300414: szyba b08
+    2300416: szyba b09
+    2300418: szyba b1
+    2300420: szyba b10
+    2300422: szyba b4
+    2300424: szyba p
+    2300426: szyba p czarny
+    2300428: szyba t
+    2300430: szyba t01
+    2300432: szyby b
+    2300434: szyby b napisy
+    2300436: szyby b napisy 01
+    2300438: szyby czarny b01
+    2300440: szyby czarny b02
+    2300442: szyby drzwi czarny b02
+    2300444: szyby drzwi czarny b03
+    2300446: tablica rej
+    2300448: Torus01
+    2300450: Torus02
+    2300452: Tube01
+    2300454: Tube01 1
+    2300456: Tube02
+    2300458: Tube03
+    2300460: Tube03 1
+    2300462: Tube04
+    2300464: wlot na dachu
+    2300466: wlot p1
+    2300468: wlot p2
+    2300470: wnetrze1
+    2300472: wycieraczka
+    2300474: wycieraczka01
+    2300476: wyswietlacz
+    2300478: zderzak p
+    2300480: zderzak t
+    3300000: antena 1
+    3300002: antena 2
+    3300004: biegi 1
+    3300006: biegi 2
+    3300008: bok1
+    3300010: bok2
+    3300012: Box01
+    3300014: Box01 1
+    3300016: Box01 2
+    3300018: Box02
+    3300020: Box02 1
+    3300022: Box02 2
+    3300024: Box03
+    3300026: Box04
+    3300028: Box05
+    3300030: Box06
+    3300032: Box07
+    3300034: Box08
+    3300036: Box09
+    3300038: Box10
+    3300040: Box11
+    3300042: Box12
+    3300044: Box13
+    3300046: Box13 1
+    3300048: Box14
+    3300050: Box14 1
+    3300052: Box15
+    3300054: Box16
+    3300056: Box17
+    3300058: Box18
+    3300060: Box19
+    3300062: chlodnica 03
+    3300064: chlodnica 1
+    3300066: chlodnica 2
+    3300068: chlodnica1
+    3300070: Cylinder01
+    3300072: Cylinder06
+    3300074: Cylinder07
+    3300076: Cylinder08
+    3300078: Cylinder08 1
+    3300080: Cylinder09
+    3300082: Cylinder19
+    3300084: Cylinder86
+    3300086: Cylinder87
+    3300088: Cylinder88
+    3300090: Cylinder89
+    3300092: Cylinder90
+    3300094: czarny wlot
+    3300096: dach
+    3300098: drzwi 03
+    3300100: drzwi 05
+    3300102: drzwi 06
+    3300104: drzwi 07
+    3300106: drzwi 08
+    3300108: drzwi 09
+    3300110: drzwi 10
+    3300112: drzwi 2
+    3300114: fotel
+    3300116: fotel02
+    3300118: kierownica1
+    3300120: klamka
+    3300122: klamka 02
+    3300124: klamka 03
+    3300126: klamka01
+    3300128: klapa tyl
+    3300130: klatka02
+    3300132: klatka1
+    3300134: kolumna kierownicy
+    3300136: Line01
+    3300138: Line01 1
+    3300140: Line01 2
+    3300142: Line02
+    3300144: Line02 1
+    3300146: Line02 2
+    3300148: Line03
+    3300150: Line03 1
+    3300152: Line03 2
+    3300154: Line04
+    3300156: Line05
+    3300158: Line06
+    3300160: Line06 1
+    3300162: Line07
+    3300164: Line07 1
+    3300166: Line09
+    3300168: Line10
+    3300170: Line100
+    3300172: Line101
+    3300174: Line102
+    3300176: Line103
+    3300178: Line104
+    3300180: Line105
+    3300182: Line106
+    3300184: Line107
+    3300186: Line108
+    3300188: Line109
+    3300190: Line11
+    3300192: Line110
+    3300194: Line111
+    3300196: Line112
+    3300198: Line12
+    3300200: Line13
+    3300202: Line14
+    3300204: Line45
+    3300206: Line46
+    3300208: Line47
+    3300210: Line48
+    3300212: Line49
+    3300214: Line50
+    3300216: Line51
+    3300218: Line52
+    3300220: Line53
+    3300222: Line54
+    3300224: Line55
+    3300226: Line56
+    3300228: Line57
+    3300230: Line73
+    3300232: Line75
+    3300234: Line97
+    3300236: Line98
+    3300238: Line99
+    3300240: listwa tyl
+    3300242: lusterko
+    3300244: lusterko02
+    3300246: lusterko03
+    3300248: lusterko1
+    3300250: maska01
+    3300252: maska02
+    3300254: migacz p03
+    3300256: migacz p04
+    3300258: migacz p1
+    3300260: migacz p2
+    3300262: nadkola
+    3300264: nadkola01
+    3300266: NGon01
+    3300268: NGon02
+    3300270: NGon03
+    3300272: NGon16
+    3300274: NGon17
+    3300276: NGon18
+    3300278: OilTank01
+    3300280: OilTank02
+    3300282: podloga02
+    3300284: progi
+    3300286: przelacznik02
+    3300288: przelacznik03
+    3300290: przelacznik04
+    3300292: przelacznik05
+    3300294: przelacznik06
+    3300296: przelacznik07
+    3300298: przelacznik08
+    3300300: przelacznik09
+    3300302: przelacznik1
+    3300304: przelacznik10
+    3300306: przelacznik11
+    3300308: przelacznik12
+    3300310: przelacznik13
+    3300312: przelacznik14
+    3300314: przelacznik15
+    3300316: przelacznik16
+    3300318: przelacznik18
+    3300320: przelacznik19
+    3300322: przelacznik24
+    3300324: przelacznik25
+    3300326: przelacznik26
+    3300328: przelacznik27
+    3300330: przelacznik28
+    3300332: przelacznik29
+    3300334: przelacznik30
+    3300336: przelacznik31
+    3300338: przelacznik32
+    3300340: przelacznik33
+    3300342: reflektor p03
+    3300344: reflektor p04
+    3300346: reflektor p08
+    3300348: reflektor p09
+    3300350: reflektor p10
+    3300352: reflektor p2
+    3300354: reflektory03
+    3300356: reflektory2
+    3300358: reklama szyby p
+    3300360: rowek 4
+    3300362: rowek 5
+    3300364: rowek 6
+    3300366: rowki 2
+    3300368: rowki 8
+    3300370: rowki1
+    3300372: rura wydech
+    3300374: Sphere01
+    3300376: Sphere01 1
+    3300378: Sphere02
+    3300380: Sphere02 1
+    3300382: Sphere03
+    3300384: spinka06
+    3300386: spinka07
+    3300388: spinka08
+    3300390: spinka1
+    3300392: spoiler t
+    3300394: spoiler t01
+    3300396: swiatla t
+    3300398: swiatlo tylne 1
+    3300400: swiatlo zdezak t1
+    3300402: swiatlo zdezak t2
+    3300404: szyba b02
+    3300406: szyba b04
+    3300408: szyba b05
+    3300410: szyba b06
+    3300412: szyba b07
+    3300414: szyba b08
+    3300416: szyba b09
+    3300418: szyba b1
+    3300420: szyba b10
+    3300422: szyba b4
+    3300424: szyba p
+    3300426: szyba p czarny
+    3300428: szyba t
+    3300430: szyba t01
+    3300432: szyby b
+    3300434: szyby b napisy
+    3300436: szyby b napisy 01
+    3300438: szyby czarny b01
+    3300440: szyby czarny b02
+    3300442: szyby drzwi czarny b02
+    3300444: szyby drzwi czarny b03
+    3300446: tablica rej
+    3300448: Torus01
+    3300450: Torus02
+    3300452: Tube01
+    3300454: Tube01 1
+    3300456: Tube02
+    3300458: Tube03
+    3300460: Tube03 1
+    3300462: Tube04
+    3300464: wlot na dachu
+    3300466: wlot p1
+    3300468: wlot p2
+    3300470: wnetrze1
+    3300472: wycieraczka
+    3300474: wycieraczka01
+    3300476: wyswietlacz
+    3300478: zderzak p
+    3300480: zderzak t
+    4300000: bok2
+    4300002: nadkola
+    4300004: szyby b
+    4300006: swiatla t
+    4300008: rowki 8
+    4300010: rowki1
+    4300012: szyba p
+    4300014: swiatlo zdezak t1
+    4300016: migacz p1
+    4300018: migacz p2
+    4300020: wlot p1
+    4300022: wlot p2
+    4300024: swiatlo zdezak t2
+    4300026: rowki 2
+    4300028: rowek 4
+    4300030: szyby czarny b01
+    4300032: szyby czarny b02
+    4300034: swiatlo tylne 1
+    4300036: zderzak t
+    4300038: zderzak p
+    4300040: dach
+    4300042: bok1
+    4300044: reklama szyby p
+    4300046: szyba t01
+    4300048: nadkola01
+    4300050: wlot na dachu
+    4300052: rura wydech
+    4300054: Sphere02
+    4300056: chlodnica 1
+    4300058: chlodnica1
+    4300060: chlodnica 2
+    4300062: chlodnica 03
+    4300064: antena 1
+    4300066: antena 2
+    4300068: migacz p03
+    4300070: migacz p04
+    4300072: szyby b napisy 01
+    4300074: szyby b napisy
+    4300076: Line03
+    4300078: Tube01
+    4300080: Line99
+    4300082: Tube02
+    4300084: Line110
+    4300086: Tube03
+    4300088: Line112
+    4300090: Tube04
+    4300092: progi
+    4300094: rowek 5
+    4300096: wnetrze1
+    4300098: Box12
+    4300100: szyba p czarny
+    4300102: Box01
+    4300104: Box02
+    4300106: Line13
+    4300108: Box19
+    4300110: Line12
+    4300112: Line14
+    4300114: kolumna kierownicy
+    4300116: biegi 1
+    4300118: biegi 2
+    4300120: Box04
+    4300122: Line73
+    4300124: wyswietlacz
+    4300126: Line75
+    4300128: podloga02
+    4300130: Torus02
+    4300132: Box05
+    4300134: Box09
+    4300136: przelacznik13
+    4300138: przelacznik14
+    4300140: przelacznik15
+    4300142: przelacznik16
+    4300144: przelacznik18
+    4300146: przelacznik19
+    4300148: przelacznik24
+    4300150: Sphere02
+    4300152: Sphere03
+    4300154: przelacznik25
+    4300156: przelacznik26
+    4300158: przelacznik27
+    4300160: przelacznik28
+    4300162: przelacznik29
+    4300164: przelacznik30
+    4300166: przelacznik31
+    4300168: przelacznik32
+    4300170: przelacznik33
+    4300172: Cylinder86
+    4300174: Cylinder87
+    4300176: Box11
+    4300178: Box18
+    4300180: klatka02
+    4300182: klatka1
+    4300184: rowek 6
+    4300186: szyby drzwi czarny b03
+    4300188: szyby drzwi czarny b02
+    4300190: klamka 02
+    4300192: drzwi 2
+    4300194: klamka
+    4300196: szyba b02
+    4300198: drzwi 03
+    4300200: drzwi 05
+    4300202: szyba b1
+    4300204: lusterko1
+    4300206: lusterko
+    4300208: szyba b04
+    4300210: szyba b05
+    4300212: szyba b4
+    4300214: drzwi 06
+    4300216: szyba b07
+    4300218: lusterko02
+    4300220: klamka01
+    4300222: szyba b06
+    4300224: lusterko03
+    4300226: klamka 03
+    4300228: szyba b09
+    4300230: szyba b08
+    4300232: szyba b10
+    4300234: drzwi 08
+    4300236: drzwi 07
+    4300238: drzwi 10
+    4300240: drzwi 09
+    4300242: maska01
+    4300244: spinka06
+    4300246: spinka1
+    4300248: czarny wlot
+    4300250: maska02
+    4300252: listwa tyl
+    4300254: tablica rej
+    4300256: spinka08
+    4300258: Sphere01
+    4300260: spinka07
+    4300262: Line01
+    4300264: spoiler t
+    4300266: spoiler t01
+    4300268: szyba t
+    4300270: klapa tyl
+    4300272: reflektor p03
+    4300274: reflektor p04
+    4300276: reflektory2
+    4300278: reflektor p2
+    4300280: reflektor p08
+    4300282: reflektor p09
+    4300284: reflektory03
+    4300286: reflektor p10
+    4300288: Line02
+    4300290: Line06
+    4300292: Line07
+    4300294: Cylinder06
+    4300296: Line97
+    4300298: Line98
+    4300300: Cylinder07
+    4300302: Line100
+    4300304: Line101
+    4300306: Line102
+    4300308: Line103
+    4300310: Line104
+    4300312: Line108
+    4300314: Line109
+    4300316: Cylinder08
+    4300318: Line105
+    4300320: Line106
+    4300322: Line107
+    4300324: Cylinder09
+    4300326: Line111
+    4300328: wycieraczka
+    4300330: Line02
+    4300332: Line03
+    4300334: Line01
+    4300336: wycieraczka01
+    4300338: Line55
+    4300340: Line56
+    4300342: Line57
+    4300344: Box13
+    4300346: Line45
+    4300348: Line46
+    4300350: NGon16
+    4300352: Line47
+    4300354: NGon17
+    4300356: Line48
+    4300358: Line49
+    4300360: Line50
+    4300362: Box14
+    4300364: Tube03
+    4300366: Box15
+    4300368: Box16
+    4300370: Line51
+    4300372: Box17
+    4300374: Line52
+    4300376: Line53
+    4300378: Line54
+    4300380: fotel02
+    4300382: Box02
+    4300384: Line03
+    4300386: Line04
+    4300388: NGon02
+    4300390: Line05
+    4300392: NGon03
+    4300394: Line01
+    4300396: Line02
+    4300398: Line06
+    4300400: fotel
+    4300402: Box01
+    4300404: Tube01
+    4300406: Box06
+    4300408: Box07
+    4300410: Line07
+    4300412: Box08
+    4300414: Line09
+    4300416: Line10
+    4300418: Line11
+    4300420: Box13
+    4300422: Box14
+    4300424: Box10
+    4300426: NGon18
+    4300428: NGon01
+    4300430: Box02
+    4300432: Cylinder01
+    4300434: Box01
+    4300436: Cylinder19
+    4300438: Torus01
+    4300440: kierownica1
+    4300442: Box03
+    4300444: przelacznik07
+    4300446: przelacznik1
+    4300448: przelacznik02
+    4300450: przelacznik03
+    4300452: przelacznik04
+    4300454: przelacznik05
+    4300456: przelacznik06
+    4300458: przelacznik11
+    4300460: przelacznik09
+    4300462: przelacznik12
+    4300464: przelacznik10
+    4300466: przelacznik08
+    4300468: Sphere01
+    4300470: Cylinder88
+    4300472: Cylinder08
+    4300474: OilTank01
+    4300476: Cylinder89
+    4300478: Cylinder90
+    4300480: OilTank02
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

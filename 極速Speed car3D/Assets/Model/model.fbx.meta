@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: adb1385efb447ad469c45382223f6178
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Container_Back_Low
+    100002: Container_Back_Low 1
+    100004: Container_Bottom_Edge_Low
+    100006: Container_Bottom_Edge_Low 1
+    100008: Container_Corner_Sides_Low
+    100010: Container_Corner_Sides_Low 1
+    100012: Container_Corners_Low
+    100014: Container_Corners_Low 1
+    100016: Container_Door_Cylinder_2_Low
+    100018: Container_Door_Cylinder_2_Low 1
+    100020: Container_Door_Cylinder_Low
+    100022: Container_Door_Cylinder_Low 1
+    100024: Container_Door_Hinges_1_Low
+    100026: Container_Door_Hinges_1_Low 1
+    100028: Container_Door_Lock_3_Low
+    100030: Container_Door_Lock_3_Low 1
+    100032: Container_Door_Low
+    100034: Container_Door_Low 1
+    100036: Container_Hinges_2_Low
+    100038: Container_Hinges_2_Low 1
+    100040: Container_Lock_1_Low
+    100042: Container_Lock_1_Low 1
+    100044: Container_Lock_2_Low
+    100046: Container_Lock_2_Low 1
+    100048: Container_Lock_Bolts_Low
+    100050: Container_Lock_Bolts_Low 1
+    100052: Container_Side_Edge_Low
+    100054: Container_Side_Edge_Low 1
+    100056: Container_Side_Edge_Low1
+    100058: Container_Side_Low
+    100060: Container_Side_Low 1
+    100062: Container_Side_Low1
+    100064: Container_Sides_Details_Low
+    100066: Container_Sides_Details_Low 1
+    100068: Container_Sides_Details_Low1
+    100070: Container_Top_Bottom_Low
+    100072: Container_Top_Bottom_Low 1
+    100074: Container_Top_Bottom_Low1
+    100076: Container_Top_Edge_Low
+    100078: Container_Top_Edge_Low 1
+    100080: group1
+    100082: group2
+    100084: group3
+    100086: group4
+    100088: group5
+    100090: group6
+    100092: group7
+    100094: group8
+    100096: //RootNode
+    100098: polySurface53
+    100100: polySurface54
+    100102: polySurface55
+    100104: polySurface56
+    100106: polySurface57
+    100108: polySurface58
+    100110: polySurface59
+    100112: polySurface60
+    100114: polySurface61
+    100116: polySurface62
+    100118: polySurface63
+    100120: polySurface64
+    100122: polySurface65
+    100124: polySurface66
+    100126: polySurface67
+    100128: polySurface68
+    100130: Shipping_Container_Long_Open_Low
+    100132: Shipping_Container_Low
+    100134: Shipping_Container_Open_Low
+    400000: Container_Back_Low
+    400002: Container_Back_Low 1
+    400004: Container_Bottom_Edge_Low
+    400006: Container_Bottom_Edge_Low 1
+    400008: Container_Corner_Sides_Low
+    400010: Container_Corner_Sides_Low 1
+    400012: Container_Corners_Low
+    400014: Container_Corners_Low 1
+    400016: Container_Door_Cylinder_2_Low
+    400018: Container_Door_Cylinder_2_Low 1
+    400020: Container_Door_Cylinder_Low
+    400022: Container_Door_Cylinder_Low 1
+    400024: Container_Door_Hinges_1_Low
+    400026: Container_Door_Hinges_1_Low 1
+    400028: Container_Door_Lock_3_Low
+    400030: Container_Door_Lock_3_Low 1
+    400032: Container_Door_Low
+    400034: Container_Door_Low 1
+    400036: Container_Hinges_2_Low
+    400038: Container_Hinges_2_Low 1
+    400040: Container_Lock_1_Low
+    400042: Container_Lock_1_Low 1
+    400044: Container_Lock_2_Low
+    400046: Container_Lock_2_Low 1
+    400048: Container_Lock_Bolts_Low
+    400050: Container_Lock_Bolts_Low 1
+    400052: Container_Side_Edge_Low
+    400054: Container_Side_Edge_Low 1
+    400056: Container_Side_Edge_Low1
+    400058: Container_Side_Low
+    400060: Container_Side_Low 1
+    400062: Container_Side_Low1
+    400064: Container_Sides_Details_Low
+    400066: Container_Sides_Details_Low 1
+    400068: Container_Sides_Details_Low1
+    400070: Container_Top_Bottom_Low
+    400072: Container_Top_Bottom_Low 1
+    400074: Container_Top_Bottom_Low1
+    400076: Container_Top_Edge_Low
+    400078: Container_Top_Edge_Low 1
+    400080: group1
+    400082: group2
+    400084: group3
+    400086: group4
+    400088: group5
+    400090: group6
+    400092: group7
+    400094: group8
+    400096: //RootNode
+    400098: polySurface53
+    400100: polySurface54
+    400102: polySurface55
+    400104: polySurface56
+    400106: polySurface57
+    400108: polySurface58
+    400110: polySurface59
+    400112: polySurface60
+    400114: polySurface61
+    400116: polySurface62
+    400118: polySurface63
+    400120: polySurface64
+    400122: polySurface65
+    400124: polySurface66
+    400126: polySurface67
+    400128: polySurface68
+    400130: Shipping_Container_Long_Open_Low
+    400132: Shipping_Container_Low
+    400134: Shipping_Container_Open_Low
+    2100000: lambert2
+    2300000: Container_Back_Low
+    2300002: Container_Back_Low 1
+    2300004: Container_Bottom_Edge_Low
+    2300006: Container_Corner_Sides_Low
+    2300008: Container_Corners_Low
+    2300010: Container_Door_Cylinder_2_Low
+    2300012: Container_Door_Cylinder_2_Low 1
+    2300014: Container_Door_Cylinder_Low
+    2300016: Container_Door_Cylinder_Low 1
+    2300018: Container_Door_Hinges_1_Low
+    2300020: Container_Door_Hinges_1_Low 1
+    2300022: Container_Door_Lock_3_Low
+    2300024: Container_Door_Lock_3_Low 1
+    2300026: Container_Door_Low
+    2300028: Container_Door_Low 1
+    2300030: Container_Hinges_2_Low
+    2300032: Container_Hinges_2_Low 1
+    2300034: Container_Lock_1_Low
+    2300036: Container_Lock_1_Low 1
+    2300038: Container_Lock_2_Low
+    2300040: Container_Lock_2_Low 1
+    2300042: Container_Lock_Bolts_Low
+    2300044: Container_Lock_Bolts_Low 1
+    2300046: Container_Side_Edge_Low
+    2300048: Container_Side_Edge_Low 1
+    2300050: Container_Side_Edge_Low1
+    2300052: Container_Side_Low
+    2300054: Container_Side_Low 1
+    2300056: Container_Side_Low1
+    2300058: Container_Sides_Details_Low
+    2300060: Container_Sides_Details_Low 1
+    2300062: Container_Sides_Details_Low1
+    2300064: Container_Top_Bottom_Low
+    2300066: Container_Top_Bottom_Low 1
+    2300068: Container_Top_Bottom_Low1
+    2300070: Container_Top_Edge_Low
+    2300072: polySurface53
+    2300074: polySurface54
+    2300076: polySurface55
+    2300078: polySurface56
+    2300080: polySurface57
+    2300082: polySurface58
+    2300084: polySurface59
+    2300086: polySurface60
+    2300088: polySurface61
+    2300090: polySurface62
+    2300092: polySurface63
+    2300094: polySurface64
+    2300096: polySurface65
+    2300098: polySurface66
+    2300100: polySurface67
+    2300102: polySurface68
+    2300104: Shipping_Container_Long_Open_Low
+    2300106: Shipping_Container_Open_Low
+    3300000: Container_Back_Low
+    3300002: Container_Back_Low 1
+    3300004: Container_Bottom_Edge_Low
+    3300006: Container_Corner_Sides_Low
+    3300008: Container_Corners_Low
+    3300010: Container_Door_Cylinder_2_Low
+    3300012: Container_Door_Cylinder_2_Low 1
+    3300014: Container_Door_Cylinder_Low
+    3300016: Container_Door_Cylinder_Low 1
+    3300018: Container_Door_Hinges_1_Low
+    3300020: Container_Door_Hinges_1_Low 1
+    3300022: Container_Door_Lock_3_Low
+    3300024: Container_Door_Lock_3_Low 1
+    3300026: Container_Door_Low
+    3300028: Container_Door_Low 1
+    3300030: Container_Hinges_2_Low
+    3300032: Container_Hinges_2_Low 1
+    3300034: Container_Lock_1_Low
+    3300036: Container_Lock_1_Low 1
+    3300038: Container_Lock_2_Low
+    3300040: Container_Lock_2_Low 1
+    3300042: Container_Lock_Bolts_Low
+    3300044: Container_Lock_Bolts_Low 1
+    3300046: Container_Side_Edge_Low
+    3300048: Container_Side_Edge_Low 1
+    3300050: Container_Side_Edge_Low1
+    3300052: Container_Side_Low
+    3300054: Container_Side_Low 1
+    3300056: Container_Side_Low1
+    3300058: Container_Sides_Details_Low
+    3300060: Container_Sides_Details_Low 1
+    3300062: Container_Sides_Details_Low1
+    3300064: Container_Top_Bottom_Low
+    3300066: Container_Top_Bottom_Low 1
+    3300068: Container_Top_Bottom_Low1
+    3300070: Container_Top_Edge_Low
+    3300072: polySurface53
+    3300074: polySurface54
+    3300076: polySurface55
+    3300078: polySurface56
+    3300080: polySurface57
+    3300082: polySurface58
+    3300084: polySurface59
+    3300086: polySurface60
+    3300088: polySurface61
+    3300090: polySurface62
+    3300092: polySurface63
+    3300094: polySurface64
+    3300096: polySurface65
+    3300098: polySurface66
+    3300100: polySurface67
+    3300102: polySurface68
+    3300104: Shipping_Container_Long_Open_Low
+    3300106: Shipping_Container_Open_Low
+    4300000: Container_Top_Bottom_Low1
+    4300002: Container_Side_Low1
+    4300004: Container_Sides_Details_Low1
+    4300006: Container_Side_Edge_Low1
+    4300008: Shipping_Container_Open_Low
+    4300010: Shipping_Container_Long_Open_Low
+    4300012: Container_Back_Low
+    4300014: Container_Side_Low
+    4300016: polySurface66
+    4300018: polySurface68
+    4300020: Container_Side_Edge_Low
+    4300022: polySurface57
+    4300024: polySurface58
+    4300026: polySurface59
+    4300028: polySurface60
+    4300030: Container_Top_Bottom_Low
+    4300032: Container_Sides_Details_Low
+    4300034: polySurface55
+    4300036: polySurface56
+    4300038: Container_Lock_2_Low
+    4300040: Container_Door_Lock_3_Low
+    4300042: Container_Door_Cylinder_Low
+    4300044: polySurface65
+    4300046: polySurface64
+    4300048: polySurface63
+    4300050: polySurface62
+    4300052: polySurface61
+    4300054: Container_Lock_1_Low
+    4300056: Container_Door_Hinges_1_Low
+    4300058: Container_Hinges_2_Low
+    4300060: Container_Door_Cylinder_2_Low
+    4300062: Container_Door_Low
+    4300064: polySurface54
+    4300066: polySurface53
+    4300068: polySurface67
+    4300070: Container_Lock_Bolts_Low
+    4300072: Container_Back_Low
+    4300074: Container_Side_Low
+    4300076: Container_Lock_1_Low
+    4300078: Container_Top_Edge_Low
+    4300080: Container_Door_Low
+    4300082: Container_Bottom_Edge_Low
+    4300084: Container_Lock_2_Low
+    4300086: Container_Side_Edge_Low
+    4300088: Container_Door_Cylinder_Low
+    4300090: Container_Door_Lock_3_Low
+    4300092: Container_Door_Hinges_1_Low
+    4300094: Container_Corners_Low
+    4300096: Container_Top_Bottom_Low
+    4300098: Container_Door_Cylinder_2_Low
+    4300100: Container_Hinges_2_Low
+    4300102: Container_Sides_Details_Low
+    4300104: Container_Corner_Sides_Low
+    4300106: Container_Lock_Bolts_Low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

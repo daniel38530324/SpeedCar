@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: f62bb6dafd41da044919203b0879f888
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: belt
+    100004: body
+    100006: body 1
+    100008: bottom
+    100010: chrome
+    100012: chrome 1
+    100014: chrome 2
+    100016: chrome 3
+    100018: chrome 4
+    100020: chrome 5
+    100022: chrome 6
+    100024: front
+    100026: glass
+    100028: gold
+    100030: gold 1
+    100032: gold 2
+    100034: gold 3
+    100036: gold 4
+    100038: gum
+    100040: gum 1
+    100042: gum 2
+    100044: gum 3
+    100046: gum 4
+    100048: gum 5
+    100050: gum 6
+    100052: gum 7
+    100054: left
+    100056: //RootNode
+    100058: red
+    100060: red 1
+    100062: red 2
+    100064: red 3
+    100066: red 4
+    100068: right
+    100070: seat
+    100072: silver
+    100074: silver 1
+    100076: tire
+    100078: tire 1
+    100080: tire 2
+    100082: tire 3
+    100084: top
+    100086: wheel
+    100088: wheel 1
+    100090: wheel 2
+    100092: wheel 3
+    100094: wheel 4
+    100096: wheel 5
+    100098: wheel 6
+    100100: wheel 7
+    400000: back
+    400002: belt
+    400004: body
+    400006: body 1
+    400008: bottom
+    400010: chrome
+    400012: chrome 1
+    400014: chrome 2
+    400016: chrome 3
+    400018: chrome 4
+    400020: chrome 5
+    400022: chrome 6
+    400024: front
+    400026: glass
+    400028: gold
+    400030: gold 1
+    400032: gold 2
+    400034: gold 3
+    400036: gold 4
+    400038: gum
+    400040: gum 1
+    400042: gum 2
+    400044: gum 3
+    400046: gum 4
+    400048: gum 5
+    400050: gum 6
+    400052: gum 7
+    400054: left
+    400056: //RootNode
+    400058: red
+    400060: red 1
+    400062: red 2
+    400064: red 3
+    400066: red 4
+    400068: right
+    400070: seat
+    400072: silver
+    400074: silver 1
+    400076: tire
+    400078: tire 1
+    400080: tire 2
+    400082: tire 3
+    400084: top
+    400086: wheel
+    400088: wheel 1
+    400090: wheel 2
+    400092: wheel 3
+    400094: wheel 4
+    400096: wheel 5
+    400098: wheel 6
+    400100: wheel 7
+    2300000: back
+    2300002: belt
+    2300004: body
+    2300006: body 1
+    2300008: bottom
+    2300010: chrome
+    2300012: chrome 1
+    2300014: chrome 2
+    2300016: chrome 3
+    2300018: chrome 4
+    2300020: chrome 5
+    2300022: chrome 6
+    2300024: front
+    2300026: glass
+    2300028: gold
+    2300030: gold 1
+    2300032: gold 2
+    2300034: gold 3
+    2300036: gold 4
+    2300038: gum
+    2300040: gum 1
+    2300042: gum 2
+    2300044: gum 3
+    2300046: gum 4
+    2300048: gum 5
+    2300050: gum 6
+    2300052: gum 7
+    2300054: left
+    2300056: red
+    2300058: red 1
+    2300060: red 2
+    2300062: red 3
+    2300064: red 4
+    2300066: right
+    2300068: seat
+    2300070: silver
+    2300072: silver 1
+    2300074: tire
+    2300076: tire 1
+    2300078: tire 2
+    2300080: tire 3
+    2300082: top
+    2300084: wheel 4
+    2300086: wheel 5
+    2300088: wheel 6
+    2300090: wheel 7
+    3300000: back
+    3300002: belt
+    3300004: body
+    3300006: body 1
+    3300008: bottom
+    3300010: chrome
+    3300012: chrome 1
+    3300014: chrome 2
+    3300016: chrome 3
+    3300018: chrome 4
+    3300020: chrome 5
+    3300022: chrome 6
+    3300024: front
+    3300026: glass
+    3300028: gold
+    3300030: gold 1
+    3300032: gold 2
+    3300034: gold 3
+    3300036: gold 4
+    3300038: gum
+    3300040: gum 1
+    3300042: gum 2
+    3300044: gum 3
+    3300046: gum 4
+    3300048: gum 5
+    3300050: gum 6
+    3300052: gum 7
+    3300054: left
+    3300056: red
+    3300058: red 1
+    3300060: red 2
+    3300062: red 3
+    3300064: red 4
+    3300066: right
+    3300068: seat
+    3300070: silver
+    3300072: silver 1
+    3300074: tire
+    3300076: tire 1
+    3300078: tire 2
+    3300080: tire 3
+    3300082: top
+    3300084: wheel 4
+    3300086: wheel 5
+    3300088: wheel 6
+    3300090: wheel 7
+    4300000: bottom
+    4300002: gum
+    4300004: glass
+    4300006: left
+    4300008: gum
+    4300010: silver
+    4300012: body
+    4300014: chrome
+    4300016: silver
+    4300018: red
+    4300020: body
+    4300022: chrome
+    4300024: top
+    4300026: front
+    4300028: back
+    4300030: right
+    4300032: seat
+    4300034: gold
+    4300036: belt
+    4300038: gum
+    4300040: chrome
+    4300042: gum
+    4300044: red
+    4300046: gold
+    4300048: gum
+    4300050: chrome
+    4300052: tire
+    4300054: wheel
+    4300056: gum
+    4300058: red
+    4300060: wheel
+    4300062: gold
+    4300064: chrome
+    4300066: tire
+    4300068: gum
+    4300070: red
+    4300072: gold
+    4300074: wheel
+    4300076: chrome
+    4300078: tire
+    4300080: gold
+    4300082: gum
+    4300084: red
+    4300086: wheel
+    4300088: chrome
+    4300090: tire
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0025
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

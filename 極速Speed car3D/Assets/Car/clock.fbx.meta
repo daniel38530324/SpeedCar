@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 126ecc3dad654074f89f399a1a5b5049
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cerchio.001_0
+    100002: Cerchio.002_0
+    100004: Cerchio.003_0
+    100006: Cerchio.004_0
+    100008: Cerchio.005_0
+    100010: Cerchio.006_0
+    100012: Cerchio.007_0
+    100014: Cerchio.008_0
+    100016: Cerchio.009_0
+    100018: Cerchio.010_0
+    100020: Cerchio.011_0
+    100022: Cerchio_0
+    100024: Cilindro.001_0
+    100026: Cilindro.002_0
+    100028: Cilindro.003_0
+    100030: Cilindro.004_0
+    100032: Cilindro_0
+    100034: //RootNode
+    100036: Sfera_0
+    100038: vetro_0
+    400000: Cerchio.001_0
+    400002: Cerchio.002_0
+    400004: Cerchio.003_0
+    400006: Cerchio.004_0
+    400008: Cerchio.005_0
+    400010: Cerchio.006_0
+    400012: Cerchio.007_0
+    400014: Cerchio.008_0
+    400016: Cerchio.009_0
+    400018: Cerchio.010_0
+    400020: Cerchio.011_0
+    400022: Cerchio_0
+    400024: Cilindro.001_0
+    400026: Cilindro.002_0
+    400028: Cilindro.003_0
+    400030: Cilindro.004_0
+    400032: Cilindro_0
+    400034: //RootNode
+    400036: Sfera_0
+    400038: vetro_0
+    2100000: metallo_base
+    2100002: lucido
+    2100004: vetro
+    2100006: orologio
+    2100008: lancette
+    2100010: Materiale
+    2300000: Cerchio.001_0
+    2300002: Cerchio.002_0
+    2300004: Cerchio.003_0
+    2300006: Cerchio.004_0
+    2300008: Cerchio.005_0
+    2300010: Cerchio.006_0
+    2300012: Cerchio.007_0
+    2300014: Cerchio.008_0
+    2300016: Cerchio.009_0
+    2300018: Cerchio.010_0
+    2300020: Cerchio.011_0
+    2300022: Cerchio_0
+    2300024: Cilindro.001_0
+    2300026: Cilindro.002_0
+    2300028: Cilindro.003_0
+    2300030: Cilindro.004_0
+    2300032: Cilindro_0
+    2300034: Sfera_0
+    2300036: vetro_0
+    3300000: Cerchio.001_0
+    3300002: Cerchio.002_0
+    3300004: Cerchio.003_0
+    3300006: Cerchio.004_0
+    3300008: Cerchio.005_0
+    3300010: Cerchio.006_0
+    3300012: Cerchio.007_0
+    3300014: Cerchio.008_0
+    3300016: Cerchio.009_0
+    3300018: Cerchio.010_0
+    3300020: Cerchio.011_0
+    3300022: Cerchio_0
+    3300024: Cilindro.001_0
+    3300026: Cilindro.002_0
+    3300028: Cilindro.003_0
+    3300030: Cilindro.004_0
+    3300032: Cilindro_0
+    3300034: Sfera_0
+    3300036: vetro_0
+    4300000: Cerchio_0
+    4300002: Cerchio.001_0
+    4300004: Cerchio.003_0
+    4300006: vetro_0
+    4300008: Cerchio.004_0
+    4300010: Sfera_0
+    4300012: Cilindro_0
+    4300014: Cerchio.006_0
+    4300016: Cilindro.001_0
+    4300018: Cerchio.008_0
+    4300020: Cerchio.007_0
+    4300022: Cerchio.005_0
+    4300024: Cilindro.002_0
+    4300026: Cilindro.003_0
+    4300028: Cerchio.010_0
+    4300030: Cerchio.002_0
+    4300032: Cilindro.004_0
+    4300034: Cerchio.011_0
+    4300036: Cerchio.009_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

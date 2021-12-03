@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 804cb325d0a20a7498d93ab4207fa43f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blue
+    100004: body
+    100006: body 1
+    100008: body 2
+    100010: chrome
+    100012: chrome 1
+    100014: dash
+    100016: dash1
+    100018: dir
+    100020: doors
+    100022: doors 1
+    100024: glass
+    100026: glass 1
+    100028: glass 2
+    100030: grey
+    100032: grey 1
+    100034: grey 2
+    100036: grey 3
+    100038: grey 4
+    100040: gum
+    100042: gum 1
+    100044: gum 2
+    100046: interior
+    100048: interior 1
+    100050: lights
+    100052: Line08
+    100054: Line09
+    100056: Line10
+    100058: Line101
+    100060: Line102
+    100062: Line103
+    100064: Line107
+    100066: Line108
+    100068: Line109
+    100070: Line74
+    100072: Loft02
+    100074: Loft03
+    100076: Loft04
+    100078: Loft05
+    100080: Loft06
+    100082: Loft07
+    100084: plate
+    100086: red l
+    100088: sign
+    100090: tire
+    100092: tire 1
+    100094: tire 2
+    100096: tire 3
+    100098: tire 4
+    100100: usa
+    100102: wheel
+    100104: wheel 1
+    100106: wheel 2
+    100108: wheel 3
+    100110: white
+    100112: yelow
+    400000: //RootNode
+    400002: blue
+    400004: body
+    400006: body 1
+    400008: body 2
+    400010: chrome
+    400012: chrome 1
+    400014: dash
+    400016: dash1
+    400018: dir
+    400020: doors
+    400022: doors 1
+    400024: glass
+    400026: glass 1
+    400028: glass 2
+    400030: grey
+    400032: grey 1
+    400034: grey 2
+    400036: grey 3
+    400038: grey 4
+    400040: gum
+    400042: gum 1
+    400044: gum 2
+    400046: interior
+    400048: interior 1
+    400050: lights
+    400052: Line08
+    400054: Line09
+    400056: Line10
+    400058: Line101
+    400060: Line102
+    400062: Line103
+    400064: Line107
+    400066: Line108
+    400068: Line109
+    400070: Line74
+    400072: Loft02
+    400074: Loft03
+    400076: Loft04
+    400078: Loft05
+    400080: Loft06
+    400082: Loft07
+    400084: plate
+    400086: red l
+    400088: sign
+    400090: tire
+    400092: tire 1
+    400094: tire 2
+    400096: tire 3
+    400098: tire 4
+    400100: usa
+    400102: wheel
+    400104: wheel 1
+    400106: wheel 2
+    400108: wheel 3
+    400110: white
+    400112: yelow
+    2300000: blue
+    2300002: body
+    2300004: body 1
+    2300006: body 2
+    2300008: chrome
+    2300010: chrome 1
+    2300012: dash
+    2300014: dash1
+    2300016: dir
+    2300018: doors
+    2300020: doors 1
+    2300022: glass
+    2300024: glass 1
+    2300026: glass 2
+    2300028: grey
+    2300030: grey 1
+    2300032: grey 2
+    2300034: grey 3
+    2300036: grey 4
+    2300038: gum
+    2300040: gum 1
+    2300042: gum 2
+    2300044: interior
+    2300046: interior 1
+    2300048: lights
+    2300050: Line08
+    2300052: Line09
+    2300054: Line10
+    2300056: Line101
+    2300058: Line102
+    2300060: Line103
+    2300062: Line107
+    2300064: Line108
+    2300066: Line109
+    2300068: Line74
+    2300070: Loft02
+    2300072: Loft03
+    2300074: Loft04
+    2300076: Loft05
+    2300078: Loft06
+    2300080: Loft07
+    2300082: plate
+    2300084: red l
+    2300086: sign
+    2300088: tire 1
+    2300090: tire 2
+    2300092: tire 3
+    2300094: tire 4
+    2300096: wheel
+    2300098: wheel 1
+    2300100: wheel 2
+    2300102: wheel 3
+    2300104: white
+    2300106: yelow
+    3300000: blue
+    3300002: body
+    3300004: body 1
+    3300006: body 2
+    3300008: chrome
+    3300010: chrome 1
+    3300012: dash
+    3300014: dash1
+    3300016: dir
+    3300018: doors
+    3300020: doors 1
+    3300022: glass
+    3300024: glass 1
+    3300026: glass 2
+    3300028: grey
+    3300030: grey 1
+    3300032: grey 2
+    3300034: grey 3
+    3300036: grey 4
+    3300038: gum
+    3300040: gum 1
+    3300042: gum 2
+    3300044: interior
+    3300046: interior 1
+    3300048: lights
+    3300050: Line08
+    3300052: Line09
+    3300054: Line10
+    3300056: Line101
+    3300058: Line102
+    3300060: Line103
+    3300062: Line107
+    3300064: Line108
+    3300066: Line109
+    3300068: Line74
+    3300070: Loft02
+    3300072: Loft03
+    3300074: Loft04
+    3300076: Loft05
+    3300078: Loft06
+    3300080: Loft07
+    3300082: plate
+    3300084: red l
+    3300086: sign
+    3300088: tire 1
+    3300090: tire 2
+    3300092: tire 3
+    3300094: tire 4
+    3300096: wheel
+    3300098: wheel 1
+    3300100: wheel 2
+    3300102: wheel 3
+    3300104: white
+    3300106: yelow
+    4300000: body
+    4300002: glass
+    4300004: gum
+    4300006: glass
+    4300008: plate
+    4300010: lights
+    4300012: red l
+    4300014: gum
+    4300016: glass
+    4300018: dash
+    4300020: dash1
+    4300022: interior
+    4300024: interior
+    4300026: gum
+    4300028: body
+    4300030: doors
+    4300032: body
+    4300034: doors
+    4300036: white
+    4300038: chrome
+    4300040: sign
+    4300042: Line74
+    4300044: grey
+    4300046: Line107
+    4300048: Line108
+    4300050: Line109
+    4300052: wheel
+    4300054: grey
+    4300056: tire
+    4300058: tire
+    4300060: wheel
+    4300062: grey
+    4300064: tire
+    4300066: wheel
+    4300068: grey
+    4300070: grey
+    4300072: tire
+    4300074: wheel
+    4300076: Line101
+    4300078: Loft03
+    4300080: Loft04
+    4300082: Loft05
+    4300084: Loft06
+    4300086: Loft07
+    4300088: Loft02
+    4300090: Line08
+    4300092: Line103
+    4300094: Line09
+    4300096: Line102
+    4300098: Line10
+    4300100: chrome
+    4300102: dir
+    4300104: blue
+    4300106: yelow
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
